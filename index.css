@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 100px;
+    letter-spacing: 50px;
+    text-shadow: 7px 7px 20px #000000;
+}
+
+#test {
+    font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: 40px;
+    letter-spacing: 1px;
+}
